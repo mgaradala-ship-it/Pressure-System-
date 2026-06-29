@@ -2,7 +2,7 @@
 The pressure alert system project: 
 The system consisted of a force-sensitive pressure sensor mounted beneath a removable silicone pad on one stair, connected to a microcontroller. The software continuously sampled the sensor, filtered noisy readings, and compared the measured force against a configurable threshold (approximately 150 lb equivalent) to distinguish between adults and lighter loads.
 When both conditions were satisfied, the controller activated a small vibration motor on my desk as a silent notification. Throughout the project I learned about analog sensor calibration, threshold tuning, debouncing, embedded programming, wiring, power management, and iterative testing to improve reliability while minimizing false positives.
-This project gave me practical experience combining electronics with software to solve a real-world automation problem and strengthened my understanding of embedded systems and hardware/software integration.
+
 
 // Smart occupancy detection prototype (educational simulation)
 
